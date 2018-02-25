@@ -4,6 +4,10 @@ html {
     
 }
 
+header {
+    width: 100%;
+}
+
 body {
     text-align: center;
     width: 100%;
