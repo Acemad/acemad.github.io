@@ -4,7 +4,17 @@ html {
 
 header {
     width: 100%;
+    margin: 20px;
 }
+.logo {
+    width: 100px;
+    vertical-align: middle;
+}
+.siteName {
+    display: inline;
+    
+}
+
 
 body {
     width: 100%;
