@@ -7,11 +7,13 @@ header {
     margin: 20px;
 }
 .logo {
-    width: 100px;
     vertical-align: middle;
+    margin-right: 15px;
 }
 .siteName {
     display: inline;
+    font-family: 'Michroma', sans-serif;
+    vertical-align: middle;
     
 }
 
