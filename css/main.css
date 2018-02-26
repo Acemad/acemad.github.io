@@ -1,7 +1,5 @@
 html {
-    background-color: #EEE;
     width: 100%;
-    
 }
 
 header {
@@ -9,14 +7,13 @@ header {
 }
 
 body {
-    text-align: center;
     width: 100%;
     height: 100%;
     margin: 0px;
 }
 
 aside {
-    width: 20%;
+    width: 15%;
     float: left;
     background-color: #CCC;
 }
@@ -33,7 +30,7 @@ nav ul li {
 
 .container {
     float: left;
-    width: 80%;
+    width: 85%;
     background-color: #AAA;
 }
 
