@@ -4,18 +4,18 @@ html {
 
 header {
     width: 100%;
-    margin: 20px;
 }
 .logo {
     vertical-align: middle;
     margin-right: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 .siteName {
     display: inline;
     font-family: 'Michroma', sans-serif;
     vertical-align: middle;
     color: #004678;
-    
 }
 
 
@@ -26,7 +26,8 @@ body {
 }
 
 aside {
-    width: 15%;
+    width: 10%;
+    min-width: 100px;
     float: left;
     background-color: #CCC;
 }
@@ -38,7 +39,7 @@ nav ul {
 nav ul li {
     list-style: none;
     font-family: 'Lucida Sans', sans-serif;
-    padding: 20px;
+    padding: 15px;
 }
 
 .container {
