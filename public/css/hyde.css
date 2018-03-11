@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -76,6 +76,10 @@ html {
 }
 
 /* About section */
+.sidebar-about {
+  margin-bottom: 1.5rem;
+}
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
@@ -85,14 +89,17 @@ html {
 
 .logo {
   margin-right: auto;
-  margin-left: auto;
-  border-radius: 0px;
+  margin-left: auto;  
 }
 
 @media (min-width: 48em) {
   .logo {
     margin-left: 0rem;
   }
+}
+
+footer {
+  text-align: center;
 }
 
 /* Sidebar nav */
