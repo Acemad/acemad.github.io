@@ -83,6 +83,14 @@ body {
 .sidebar a {
   color: #fff;
 }
+.sidebar a:hover,
+.sidebar a:focus {
+  text-decoration: none;
+}
+
+.sidebar hr {
+  border-color: rgba(120,176,255,0.2);
+}
 
 /* About section */
 .sidebar-about {
@@ -110,6 +118,13 @@ body {
 footer {
   text-align: center;
 }
+footer .social-icon {
+  width: 2rem;
+  height: 2rem;
+  margin: 0 0.3rem 0.5rem;
+  display: inline-block;
+}
+
 
 /* Sidebar nav */
 .sidebar-nav {
