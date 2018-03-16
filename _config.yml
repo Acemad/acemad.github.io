@@ -3,13 +3,13 @@ email: ouessai.aes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: / # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://acemad.ga" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Acemad_
 github_username:  Acemad
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 
 paginate: 5
