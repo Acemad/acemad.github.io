@@ -8,7 +8,7 @@ twitter_username: Acemad_
 github_username:  Acemad
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: pretty
 
