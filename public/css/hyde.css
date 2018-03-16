@@ -138,8 +138,13 @@ footer .social-icon {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
-  padding-left: 0.5rem;
 }
+@media (min-width: 48em) {
+  .sidebar-nav-item {
+    padding-left: 0.5rem;
+  }
+}
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
