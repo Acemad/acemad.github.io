@@ -11,7 +11,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item {% if page.url == '/' %} active {% elsif page.layout == 'post' %} active {% endif %} hvr-forward" href="{{ '/' | relative_url }}">Blog</a>
+      <a class="sidebar-nav-item {% if page.url == '/' or page.layout == 'post' %} active {% endif %} hvr-forward" href="{{ '/' | relative_url }}">Blog</a>
       <a class="sidebar-nav-item {% if page.url == '/about/' %} active {% endif %} hvr-forward" href="/about/">About</a>
       <a class="sidebar-nav-item {% if page.url == '/resume/' %} active {% endif %} hvr-forward" href="/resume/">Resume</a>
       <hr />
