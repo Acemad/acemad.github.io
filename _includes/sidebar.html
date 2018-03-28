@@ -11,13 +11,13 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %} hvr-forward" href="{{ '/' | relative_url }}">Blog</a>
-      <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %} hvr-forward" href="/about/">About</a>
-      <a class="sidebar-nav-item{% if page.url == '/resume/' %} active{% endif %} hvr-forward" href="/resume/">Resume</a>
+      <a class="sidebar-nav-item {% if page.url == '/' %} active {% elsif page.layout == 'post' %} active {% endif %} hvr-forward" href="{{ '/' | relative_url }}">Blog</a>
+      <a class="sidebar-nav-item {% if page.url == '/about/' %} active {% endif %} hvr-forward" href="/about/">About</a>
+      <a class="sidebar-nav-item {% if page.url == '/resume/' %} active {% endif %} hvr-forward" href="/resume/">Resume</a>
       <hr />
-      <a class="sidebar-nav-item{% if page.url == '/projects/' %} active{% endif %} hvr-forward" href="/projects/">Projects</a>
-      <a class="sidebar-nav-item{% if page.url == '/designs/' %} active{% endif %} hvr-forward" href="/designs/">Designs</a>
-      <a class="sidebar-nav-item{% if page.url == '/downloads/' %} active{% endif %} hvr-forward" href="/downloads/">Downloads</a>
+      <a class="sidebar-nav-item {% if page.url == '/projects/' %} active {% endif %} hvr-forward" href="/projects/">Projects</a>
+      <a class="sidebar-nav-item {% if page.url == '/designs/' %} active {% endif %} hvr-forward" href="/designs/">Designs</a>
+      <a class="sidebar-nav-item {% if page.url == '/downloads/' %} active {% endif %} hvr-forward" href="/downloads/">Downloads</a>
       <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     </nav>
     
