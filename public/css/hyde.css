@@ -200,6 +200,11 @@ a.sidebar-nav-item:focus {
   margin-right: auto;
 }
 
+.post-title,
+.post-title a {
+  color:#2D70CD;
+}
+
 /*
  * Reverse layout
  *
