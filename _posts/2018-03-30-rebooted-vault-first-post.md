@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post (again) !
+title: "Rebooted Vault : First Post !"
 comments: true
 ---
 ![First Post Header](/images/content/fp-header.png)
