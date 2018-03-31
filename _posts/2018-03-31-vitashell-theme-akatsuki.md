@@ -44,7 +44,7 @@ Some screenshots are lurking below:
 
 I really want to see it on a red Vita !
 
-### How to install ?
+### How to install ? (On top of default VitaShell)
 
 - Download Akatsuki.zip from the link below.
 - Copy the 'Akatsuki' folder inside the downloaded zip to `ux0:VitaShell/theme/`
@@ -52,5 +52,8 @@ I really want to see it on a red Vita !
 - *(Optional)* If you would like to install the LiveArea theme and bubble, just copy the 'VITASHELL' folder to `ur0:appmeta/` and make sure to confirm any overwrite.
 
 #### [Download Akatsuki Theme](https://mega.nz/#!7Z4USQYI!0HSMPSUtxLMncBBiSk7lOtajBJWAbOEn7go5rnYmEyA)
+
+You can also download a modded VitaShell 1.9 VPK which include the Akatsuki theme along its LiveArea theme (Thanks to [@GAMESANDCON](https://twitter.com/GAMESANDCON) for compiling it)
+#### [Download VitaShell 1.9 Akatsuki Mod](http://www.mediafire.com/file/fy730sipb1sgld3/VitaShell.vpk)
 
 *This theme was 90% done last year, I just could not finish it and release it in time due to some special circumstances. Anyway, now it is ready, please enjoy.*
