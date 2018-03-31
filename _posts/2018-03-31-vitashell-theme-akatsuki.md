@@ -6,6 +6,8 @@ comments: true
 
 ![Akatsuki theme header](/images/content/akatsuki-header.png)
 
+*(download link below)*
+
 Inspired by the red clouds, alwyas prominent on the Akatsuki's *(Naruto anime)* garb, this theme is a fork of Electron, adorned with a darker tone. 
 
 <!--more-->
