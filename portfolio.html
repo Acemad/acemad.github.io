@@ -1,0 +1,201 @@
+---
+layout: page
+title: "Design Portfolio"
+---
+<h1 class="portfolio-title">Designed Logos, On Production</h1>
+
+<table class="portfolio-table">
+    <tr>
+        <td class="portfolio-art">
+            <img src="/images/portfolio/plumb-computers.png" 
+            title="Plumb Computers Ltd. An IT Support Company"/>
+        </td>
+        <td class = "portfolio-art">
+            <img src="/images/portfolio/mvl.png"
+            title="Mission Vein and Laser. Medical clinic specialized in vein treatment"/>
+        </td>
+    <tr>
+        <td class = "portfolio-art">
+            <img src="/images/portfolio/c4ins.png" 
+            title="C4INS. Center for Innovation in National Security"/>
+
+        </td>
+        <td class = "portfolio-art">
+            <img src="/images/portfolio/regendyne.png" 
+            title="Regendyne. A maglev wind turbines producer"/>
+        </td>
+    </tr>
+    <tr>
+        <td class = "portfolio-art">
+            <img src="/images/portfolio/filmonic.png" 
+            title="Filmonic.com. Movies and entretainment related news website"/>
+        </td>
+         <td class = "portfolio-art">
+            <img src="/images/portfolio/consolehax-logo.png" 
+            title="ConsoleHax.com Console hacking and modding community"/>
+        </td>
+    </tr>
+    <tr>
+        <td class = "portfolio-art">
+            <img src="/images/portfolio/cits.png"
+            title="Chabrani IT Services. IT company" />
+        </td>
+        <td>
+            <img src="/images/portfolio/daily-mix.png"
+            title="DailyMix, an Internal company magazine"/>
+        </td>
+    </tr>    
+</table>
+
+<p class="portfolio-description"><em>The logos above were either selected as winners in design competitions (entered as Rockr90), or were designed on behalf of the owner. (each logo is a property of its respective owner)</em></p>
+
+<h1 class="portfolio-title">Concepts and Highly Rated Entries</h1>
+
+<table class="portfolio-table">
+    {% assign concepts = 16 %}
+    {% for item in (1..concepts) %}
+        {% assign mod = forloop.index | modulo : 2 %}
+        {% if mod != 0 %}
+        <tr>
+            <td class = "portfolio-art">        
+                <img src="/images/portfolio/c{{forloop.index}}.png" />
+            </td>
+            {% if forloop.index < concepts %}
+            <td class = "portfolio-art">
+                <img src="/images/portfolio/c{{forloop.index | plus:1}}.png" />
+            </td>
+            {% endif %}
+        </tr>
+        {% endif %}
+    {% endfor %}
+</table>
+
+<p class="portfolio-description"><em>Most of the designs above were highly rated in design contests. The rest are logo concepts.</em></p>
+
+<h1 class="portfolio-title">PSVita&reg;-Related Designs</h1>
+
+<table class="portfolio-table">
+    <tr>
+        <td class="portfolio-art">
+            <img src="/images/portfolio/vsdk-logo.png" />
+        </td>
+        <td>
+            <p class="portfolio-description">Official logo of VitaSDK, the basis of every homebrew application on the PSVita&reg;. For more info, check this <a href="http://acemad.ga/2017/01/01/original-logo-design-vitasdk/">post.</a></p>
+            <p class="portfolio-description"><a href="https://github.com/vitasdk">VitaSDK on GitHub</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td class="portfolio-art">
+            <img src="/images/portfolio/adrenaline-logo.png" />
+        </td>
+        <td>
+            <p class="portfolio-description">An unofficial design of Adrenaline's visual identity. The ePSP CFW inside the PSVita&reg; develpoed by <a href="https://twitter.com/theflow0">TheFlow.</a></p>
+            <p class="portfolio-description"><a href="https://github.com/TheOfficialFloW/Adrenaline">Adrenaline on Github</a></p>
+        </td>
+    </tr>    
+    <tr>
+        <td class="portfolio-art">
+            <img src="/images/portfolio/molecular-shell-logo.png" />
+        </td>
+        <td>
+            <p class="portfolio-description">An unofficial design of MolecularShell's visual identity. The VitaShell fork installed by running the Henkaku exploit.</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="portfolio-art">
+            <img src="/images/portfolio/moonlight-logo.png" />
+        </td>
+        <td>
+            <p class="portfolio-description">An unofficial design of Vita Moonlight's visual identity. The NVIDIA Gamestream client for the PSVita&reg; by xyzz.</p>
+            <p class="portfolio-description"><a href="https://github.com/xyzz/vita-moonlight">Vita Moonligh on Github</a></p>
+        </td>
+    </tr>
+</table>
+
+<h2 class="portfolio-subtitle">Homebrew LiveArea Themes</h2>
+
+<table class="portfolio-table">
+    <tr>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/adrenaline-bg.png"><img src="/images/portfolio/adrenaline-bg.png" /></a>
+            <p class="portfolio-description">Unofficial Adrenaline LiveArea theme.</p>
+        </td>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/vitashell-bg.png"><img src="/images/portfolio/vitashell-bg.png" /></a>
+            <p class="portfolio-description">Unofficial VitaShell LiveArea theme. FlatOrange.</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/moonlight-bg.png"><img src="/images/portfolio/moonlight-bg.png" /></a>
+            <p class="portfolio-description">Unofficial Moonlight LiveArea theme.</p>
+        </td>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/molecular-shell-bg.png"><img src="/images/portfolio/molecular-shell-bg.png" /></a>
+            <p class="portfolio-description">Unofficial MolecularShell LiveArea theme.</p>
+        </td>
+    </tr>
+</table>
+
+<h2 class="portfolio-subtitle">VitaShell Themes</h2>
+
+<table class="portfolio-table">
+    <tr>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/vst-electron.png"><img src="/images/portfolio/vst-electron.png" /></a>
+        </td>
+        <td>
+            <img src="/images/portfolio/electron-logo.png" />
+            <p class="portfolio-description">Default VitaShell UI theme. <strong>Winner</strong> of the VitaShell design competition organized by <a href="https://twitter.com/theflow0">TheFlow</a> and <a href="http://wololo.net">Wololo.net</a> : <a href="http://wololo.net/talk/viewtopic.php?f=116&t=47830&sid=6f2168f113643eab15a906a15266df88"> Competition link.</a> </p>
+        </td>        
+    </tr>
+
+    <tr>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/vst-electron-sky.png"><img src="/images/portfolio/vst-electron-sky.png" /></a>
+        </td>
+        <td>
+            <img src="/images/portfolio/electron-sky-logo.png" />
+            <p class="portfolio-description">A brighter version of the electron theme.</p>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="portfolio-art">
+           <a href="/images/portfolio/vst-akatsuki.png"><img src="/images/portfolio/vst-akatsuki.png" /></a>
+                   
+        </td>
+        <td>
+            <img src="/images/portfolio/akatsuki-logo.png" />
+            <p class="portfolio-description">A fork of electorn with a darker tone. More info in this <a href="http://acemad.ga/2018/03/31/vitashell-theme-akatsuki/">post.</a></p>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="portfolio-art">
+            <a href="/images/portfolio/vst-cobalt-dark.png"><img src="/images/portfolio/vst-cobalt-dark.png" /></a>
+        </td>
+        <td>
+            <img src="/images/portfolio/cobalt-dark-logo.png" />
+            <p class="portfolio-description"> Among the first UI themes I designed for VitaShell</p>
+        </td>
+    </tr>
+</table>
+
+<h1 class="portfolio-title">Web Designs</h1>
+
+<table class="portfolio-table">
+    <tr>
+        <td class="portfolio-art">
+            <a href="/revologo/"><img src="/images/portfolio/revologo.png" /></a>
+        </td>
+        <td>
+            <p class="portfolio-description">RevoLogo.com <em>was</em> my attempt at launching a low cost, online logo-design agency. The website was very simple, designed and developed using Bootstrap, jQuery, Parsley.js and a little PHP. Currently offline.</p>
+            <p class="portfolio-description">Click on the image on the left to visit a demo-site of RevoLogo.com </p>
+            <p class="portfolio-description">
+                <a href="https://github.com/Acemad/RevoLogo">RevoLogo on GitHub</a>
+            </p>
+            
+        </td>
+    </tr>
+</table>

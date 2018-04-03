@@ -1,0 +1,42 @@
+.portfolio-title {
+    color: #2D70CD;
+    text-align: center;
+    padding: 1rem;
+    border-top: 5px solid #2D70CD;
+    border-right: 5px solid #2D70CD
+}
+
+.portfolio-description {
+    color: #888;    
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.portfolio-subtitle {
+    color: #2D70CD;
+    padding: 1rem;
+    border-left: 3px solid #2D70CD;
+    border-bottom: 3px solid #2D70CD;    
+}
+
+.portfolio-art {
+    width: 50%;
+}
+.portfolio-art img {
+    margin: 1rem auto;   
+}
+
+.portfolio-table {
+    margin: 2rem auto;
+    border: 0px;
+}
+
+.portfolio-table tbody tr td {
+    background-color: #FFF;
+    border: 0px;
+    padding: 1rem 1rem;
+}
+
+.big-page {
+    max-width: 42rem;
+}
