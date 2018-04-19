@@ -1,9 +1,9 @@
 .portfolio-title {
-    color: #2D70CD;
+    color: #0e6aaf;
     text-align: center;
     padding: 1rem;
-    border-top: 5px solid #2D70CD;
-    border-right: 5px solid #2D70CD
+    border-top: 5px solid #0e6aaf;
+    border-right: 5px solid #0e6aaf;
 }
 
 .portfolio-description {
@@ -13,10 +13,10 @@
 }
 
 .portfolio-subtitle {
-    color: #2D70CD;
+    color: #0e6aaf;
     padding: 1rem;
-    border-left: 3px solid #2D70CD;
-    border-bottom: 3px solid #2D70CD;    
+    border-left: 3px solid #0e6aaf;
+    border-bottom: 3px solid #0e6aaf;    
 }
 
 .portfolio-art {
