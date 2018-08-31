@@ -11,6 +11,8 @@ comments: true
 The virtual idol adored by millions around the world, finally has its own VitaShell theme. Using the same color palette as Miku's, this theme focuses on putting Miku on the background of every VitaShell screen, all while keeping an unobstructive and clean UI.
 <!--more-->
 
+**Update 31/08/2018** : Theme updated to accommodate the new settings entry in VitaShell 1.95. Enjoy !
+
 This theme was requested by [@Nzaki0716](https://twitter.com/Nzaki0716) whom I thank deeply for also helping me in some key design decisions. My first priority while designing a theme is to keep the UI as clean as possible, I can say that this theme sits on the edge of my design philosophy. It's a theme about Hatsune Miku, it can't be helped to design such theme without showing Miku herself (unacceptable !!). 
 
 In the end, I think the theme managed to meet my expectations. Let the screenshots do the talking:
@@ -54,7 +56,7 @@ Let's see how it would look like on [@Nzaki0716](https://twitter.com/Nzaki0716)'
 - Switch to HatsuneMiku theme from VitaShell settings. Restart VitaShell. Enjoy.
 - *(Optional)* If you would like to install the LiveArea theme, bubble and **Boot Screen** (which I recommend), just copy the 'VITASHELL' folder to `ur0:appmeta/` and `ux0:app/` and make sure to confirm any overwrite.
 
-#### [Download HatsuneMiku Theme](https://mega.nz/#!uM52RJoI!7IgcvXmt-uR1VMAuWOMjlBgB8quW1W4u-HVL2mCj3PA)
+#### [Download HatsuneMiku Theme](https://mega.nz/#!TdAxxYpD!RelJd6eJSX13Yvhsf1pKsxoP0_tA3wSpnVq873bRUok)
 
 Enjoy :)
 

@@ -12,6 +12,8 @@ One upon a time, there was a video game that had another video game as a DLC. Th
 
 <!--more-->
 
+**Update 31/08/2018** : Theme updated to accommodate the new settings entry in VitaShell 1.95. Enjoy !
+
 The game was FarCry 3 and the DLC was FarCry 3 : Blood Dragon. So what's the relationship with VitaShell? you might ask. Lets say VitaShell lacks some neon lights :) Have a look at the image below.
 
 ![Blood Dragon Promo](https://i.imgur.com/d3KaQib.jpg)
@@ -57,7 +59,7 @@ This would appear immediately after launching VitaShell, sort of a loading scree
 - Switch to NeonRift theme from VitaShell settings. Restart VitaShell. Enjoy.
 - *(Optional)* If you would like to install the LiveArea theme, bubble and **Boot Screen** (which I recommend), just copy the 'VITASHELL' folder to `ur0:appmeta/` and `ux0:app/` and make sure to confirm any overwrite.
 
-#### [Download NeonRift Theme](https://mega.nz/#!nMgihQBL!lDPEo-_3NZvweXWaydX3yUre5_j3RokgrhZF0wV3ukw)
+#### [Download NeonRift Theme](https://mega.nz/#!mQRnkAJL!ym4HyCOGDhXnxdgl_ymx1OI66r-jQs9HIcnEqf-I6jY)
 
 Enjoy :)
 

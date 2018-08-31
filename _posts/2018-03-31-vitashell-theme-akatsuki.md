@@ -12,6 +12,8 @@ Inspired by the red clouds, alwyas prominent on the Akatsuki's *(Naruto anime)* 
 
 <!--more-->
 
+**Update 31/08/2018** : Theme updated to accommodate the new settings entry in VitaShell 1.95. Enjoy !
+
 ![Akatsuki](https://i.imgur.com/35FdH7R.png)
 
 Red and black go together really well, and I had this idea for a red and black VitaShell theme for a while, then I remembered the actual evil organization wearing the same colors, so I just borrowed the cloud and name and designed the theme on top of Electron. That's how it was born.
@@ -51,7 +53,7 @@ I really want to see it on a red Vita !
 - Switch to Akatsuki theme from VitaShell settings. Restart VitaShell. Enjoy.
 - *(Optional)* If you would like to install the LiveArea theme and bubble, just copy the 'VITASHELL' folder to `ur0:appmeta/` and make sure to confirm any overwrite.
 
-#### [Download Akatsuki Theme](https://mega.nz/#!7Z4USQYI!0HSMPSUtxLMncBBiSk7lOtajBJWAbOEn7go5rnYmEyA)
+#### [Download Akatsuki Theme](https://mega.nz/#!mQBxCCoA!iBqHdnH8ai15YGNVj7EbAvyAGG_FTa988Gzrbs-n-8s)
 
 You can also download a modded VitaShell 1.9 VPK which include the Akatsuki theme along its LiveArea theme (Thanks to [@GAMESANDCON](https://twitter.com/GAMESANDCON) for compiling it)
 #### [Download VitaShell 1.9 Akatsuki Mod](http://www.mediafire.com/file/fy730sipb1sgld3/VitaShell.vpk)
