@@ -259,6 +259,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
+  font-family: "IBM Plex", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.25rem;
   font-weight: 300;
 }
