@@ -10,4 +10,4 @@ removed all the individual VitaShell theme posts. This was done to clear some cl
 
 The existence of individual posts is then meaningless.
 
-Furthermore, all themes are now updated for ** VitaShell 1.98 ** and all the visual glitches I could notice are gone. If you managed to find a glitch somewhere, please notify me in twitter. (Links in the sidebar)
+Furthermore, all themes are now updated for **VitaShell 1.98** and all the visual glitches I could notice are gone. If you managed to find a glitch somewhere, please notify me in twitter. (Links in the sidebar)
